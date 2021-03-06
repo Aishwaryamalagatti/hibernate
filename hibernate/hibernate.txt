@@ -1,0 +1,2 @@
+C:\Users\Prashant\.m2\repository\org\hibernate\hibernate-core\5.4.28.Final
+
